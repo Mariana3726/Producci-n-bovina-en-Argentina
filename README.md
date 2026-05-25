@@ -104,7 +104,7 @@ Se analizaron ingresos y costos promedio por actividad.
 
 ## ✔️Conclusión✔️
 El análisis demuestra que la rentabilidad en la producción bovina no depende únicamente del nivel de producción, sino principalmente de la eficiencia en la gestión de costos.
-El ciclo completo se posiciona como la estartegia más eficiente, al capturar mayor valor a lo largo de toda la cadena productiva. Por otro lado, la invernada, si bien genera altoso niveles de producción e ingresos, presenta una estructura de costos que limita significativamente su rentabilidad. 
+El ciclo completo se posiciona como la estrategia más eficiente, al capturar mayor valor a lo largo de toda la cadena productiva. Por otro lado, la invernada, si bien genera altos niveles de producción e ingresos, presenta una estructura de costos que limita significativamente su rentabilidad. 
 
 
 
